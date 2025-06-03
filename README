@@ -1,0 +1,25 @@
+# Tablas Temáticas en HTML
+
+Este proyecto contiene varias páginas web en HTML que muestran información organizada en tablas sobre diferentes temas. Cada archivo HTML representa una temática distinta y utiliza imágenes y estilos personalizados.
+
+## Estructura de carpetas
+
+- **html/**: Contiene todos los archivos HTML con las tablas temáticas.
+- **img/**: Carpeta con las imágenes utilizadas en las tablas.
+
+## Descripción de los archivos HTML
+
+- **animales.html**: Tabla sobre animales, su tipo, datos curiosos y una imagen representativa.
+- **autos.html**: Tabla de marcas y modelos de autos, junto con imágenes de cada uno.
+- **colores.html**: Tabla que explica los tipos de colores (primarios, secundarios, terciarios), ejemplos y cómo se forman.
+- **gatos.html**: Tabla de razas de gatos, descripción de cada una y su imagen.
+- **nombres.html**: Tabla con nombres, apellidos y ciudades de diferentes personas.
+- **notas.html**: Tabla de notas del segundo trimestre, mostrando nombre, materia y nota.
+- **paises.html**: Tabla de países, sus capitales y la bandera correspondiente.
+- **peliculas.html**: Tabla de géneros de películas, características y ejemplos.
+- **planetas.html**: Tabla de planetas del sistema solar, tipo y un dato curioso de cada uno.
+- **sentidos.html**: Tabla de los cinco sentidos, órgano principal, función y un ejemplo.
+
+---
+
+© 2025
